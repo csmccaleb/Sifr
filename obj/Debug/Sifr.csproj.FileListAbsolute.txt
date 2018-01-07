@@ -1,0 +1,12 @@
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.csprojResolveAssemblyReference.cache
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.Properties.Resources.resources
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.csproj.GenerateResource.Cache
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.csproj.CoreCompileInputs.cache
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\bin\Debug\Sifr.exe.config
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\bin\Debug\Sifr.exe
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\bin\Debug\Sifr.pdb
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\bin\Debug\MetroFramework.dll
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.exe
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.pdb
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\bin\Debug\MaterialSkin.dll
+C:\Users\colin.s.mccaleb\source\repos\Sifr\Sifr\obj\Debug\Sifr.Sifr.resources
